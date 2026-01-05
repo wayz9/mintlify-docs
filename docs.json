@@ -9,9 +9,13 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "anchors": [
       {
-        "tab": "Guides",
+        "anchor": "Guides",
+        "color": {
+          "light": "#D97706",
+          "dark": "#D97706"
+        },
         "groups": [
           {
             "group": "Get Started",
@@ -34,11 +38,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-      ]
-    }
+    ]
   },
   "navbar": {
     "links": [
